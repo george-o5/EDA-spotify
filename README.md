@@ -1,4 +1,5 @@
-Spotify Data Analysis Project
+Spotify Data Analysis:
+
 Overview
 This project analyzes Spotify music data to uncover insights about song characteristics, popularity trends, and genre differences. The analysis includes data exploration, visualization, and statistical correlations between various audio features.
 
