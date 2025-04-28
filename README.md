@@ -52,19 +52,7 @@ Some genres maintain consistent popularity
 
 🛠️ Technical Stack
 python
-# Core Libraries
-import numpy as np  # For numerical operations
-import pandas as pd  # For data manipulation
-import matplotlib.pyplot as plt  # For basic visualizations
-import seaborn as sns  # For advanced visualizations
 
-# Additional Techniques I'm Exploring
-from scipy import stats  # For statistical testing
-from sklearn.preprocessing import MinMaxScaler  # For feature scaling
-🚀 How to Experiment With This
-Clone the repository
-
-Install dependencies: pip install -r requirements.txt
 
 Play with the Jupyter notebook
 
